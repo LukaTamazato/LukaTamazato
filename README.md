@@ -6,6 +6,8 @@
 <div>
   <h3 style: bold;>Luka Tamazato's GitHub stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark">
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LukaTamazato0&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/vicg0/github-readme-stats)
 </div>
 <br>
 <div style="display: inline_block"><br>
