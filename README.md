@@ -1,6 +1,6 @@
 ### Olá! Sou Luka Tamazato
 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando Java e C#
 - 😄 Pronomes: ele/dele
 
 <div>
