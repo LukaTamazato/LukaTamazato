@@ -6,7 +6,7 @@
 <div>
   <h3 style: bold;>Luka Tamazato's GitHub stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?LukaTamazato&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
 </div>
 <br>
 <div style="display: inline_block"><br>
