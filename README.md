@@ -1,12 +1,12 @@
-### Olá! Sou Luka Tamazato
-
-- 🌱 Estudando Java e C#
-- 😄 Pronomes: ele/dele
+# 👋 Hello! Welcome to my Github profile.
+## My name is Luka Eiji Tamazato and my nickname is "LukaTamazato"!
+- 🔭 Atualmente estou trabalhando em Stefanini
+- 🌱 Atualmente estou aprendendo Java e C#
 
 <div>
   <h3 style: bold;>Luka Tamazato's GitHub stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaTamazato&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark">
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaTamazato&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <br>
 <div style="display: inline_block"><br>
