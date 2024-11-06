@@ -3,9 +3,9 @@
 - 👨‍💻 Atualmente estou trabalhando em Stefanini
 - 📚 Atualmente estou aprendendo Java(Springboot) e C#
 
-<div>
-  <h3 style: bold;>Luka Tamazato's GitHub stats</h3>
-  <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark"><br>
+<div style="display: flex; justify-content: space-around;">
+<h3 style: bold;>Luka Tamazato's GitHub stats</h3>
+<img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api?username=LukaTamazato&show_icons=true&theme=vision-friendly-dark">
 <img loading="lazy" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaTamazato&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
 <br>
