@@ -26,6 +26,7 @@
   <img align="center" alt="Luka-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <br>
+
 ### I'm learning:
 <div style="display: inline_block"><br>
     <img align="center" alt="Luka-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
