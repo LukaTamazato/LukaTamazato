@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luka Eiji Tamazato and my nickname is "LukaTamazato"!
 - 🔭 Atualmente estou trabalhando em Stefanini
-- 🌱 Atualmente estou aprendendo Java e C#
+- 🌱 Atualmente estou aprendendo Java(Springboot) e C#
 
 <div>
   <h3 style: bold;>Luka Tamazato's GitHub stats</h3>
